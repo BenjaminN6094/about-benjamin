@@ -1,7 +1,7 @@
 My name is Benjamin Novik and my email is BenjaminN6094@hstat.org
 I attend highschool at HSTAT or _**High School of Telecommunications Art and Technology**_
 
-###My Schedule:
+### My Schedule:
 * 1st Period: *AP Physics LAB* (On Mondays and Tuesdays only) *Gym* (On Wednesdays, Thursdays, and Fridays)
 * 2nd Period: *AP Physics*
 * 3rd Period: *Software Engineering Program 11*
