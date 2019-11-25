@@ -11,4 +11,4 @@ I attend highschool at HSTAT or _**High School of Telecommunications Art and Tec
 * 7th Period: *Spanish 5*
 * 8th Period: *Pre-calculus*
 
-I like to ski during the Winter and I like to swim during the Summer. I like to play basketball and volleyball and I like math.
+I like to ski during the **Winter** and I like to swim during the Summer. I like to play basketball and volleyball and I like math.
